@@ -2,7 +2,7 @@
 
 Google Cloud Storage Terraform Module.
 
-Procured Infrastructure
+**Procured Infrastructure**
 
 - Artifact Registries
 - Cloud Storage Buckets
