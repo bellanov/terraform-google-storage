@@ -1,6 +1,6 @@
 # terraform-google-storage
 
-Google Cloud Storage Terraform Module.
+Google Cloud Storage Module.
 
 **Procured Infrastructure**
 
